@@ -1,1 +1,1 @@
-# job-scraper-indeed" >> README.md
+# job-scraper-indeed
